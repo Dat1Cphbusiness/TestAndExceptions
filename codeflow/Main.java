@@ -18,7 +18,7 @@ public class Main {
         System.out.println("flows.methodD(25);");
         flows.methodD(25);
 
-        Exceptions exceptions = new Exceptions();
+        ExceptionDemo exceptions = new ExceptionDemo();
         try{
             System.out.println("exceptions.methodA(\"Hello, world\");");
             exceptions.methodA("Hello, world");

@@ -1,6 +1,6 @@
 package codeflow;
 
-public class Exceptions {
+public class ExceptionDemo {
 
     public void methodA(String input) throws Exception {
         System.out.println("a");
